@@ -168,7 +168,8 @@ https://templatemo.com/tm-516-known
   }
 
   #team, 
-  #testimonial {
+  #testimonial,
+  #maps {
     text-align: center;
   }
   
@@ -178,7 +179,12 @@ https://templatemo.com/tm-516-known
     height: 390px;
   }
 
-
+  #mapa1,
+  #mapa2 {
+    border-radius: 50%;
+    box-shadow: 5px 10px 5px #1a51cb;
+    width: 95% !important;
+  }
 
   /*---------------------------------------
      BUTTONS               
